@@ -1,0 +1,24 @@
+footer {
+	display: block;
+	background-color: rgba(0,0,0,0.8);
+	padding: 20px 0 10px 0;
+}
+ul.menu_footer li {
+	list-style: none;
+}
+.footer {
+	padding-bottom: 20px;
+}
+.footer h3 {
+	color: rgba(100,255,10,1);
+}
+.copy_right {
+	padding: 10px 0 0px 0;
+	text-align: center;
+	border-top: 1px solid #fff;
+}
+.sticky-top {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+}
